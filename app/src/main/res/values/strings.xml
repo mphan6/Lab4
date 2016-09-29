@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Custom List View</string>
+    <string-array name="description_array">
+        <item>Facebook</item>
+        <item>Instagram</item>
+        <item>Snapchat</item>
+    </string-array>
+    <string-array name="links">
+        <item>www.facebook.com</item>
+        <item>www.Instagram.com</item>
+        <item>www.snapchat.com</item>
+    </string-array>
+</resources>
